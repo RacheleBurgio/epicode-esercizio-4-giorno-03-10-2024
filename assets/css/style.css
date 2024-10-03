@@ -1,0 +1,156 @@
+/* IMPOSTAZIONI GENERALI */
+
+body {
+  background-image: url(/assets/img/sfondo.png);
+  background-repeat: repeat-y;
+  background-position: 43%;
+  background-size: 225%;
+  text-align: center;
+}
+
+iframe,
+img {
+  width: 100%;
+  display: block;
+}
+/* HEADER */
+header {
+  background-color: #047790;
+  padding: 3em;
+  margin: 2em;
+  box-shadow: 2px 3px 11px #2b2b2b;
+}
+
+/* MAIN */
+main {
+  background-color: white;
+  padding: 1em;
+  margin: 2em;
+  box-shadow: 2px 3px 11px #2b2b2b;
+  text-align: left;
+}
+
+menu {
+  color: white;
+}
+
+button {
+  background-color: #3366cc;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.parteprima > p {
+  margin-bottom: 15px;
+}
+
+.parteprima > p:first-of-type {
+  color: grey;
+}
+
+.newsletter {
+  background-color: #e1e1e2;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 15px;
+  text-align: left;
+}
+
+.logo {
+  margin-bottom: 17px;
+}
+
+.epi {
+  margin-bottom: 15px;
+}
+
+.menucliccabile {
+  margin-bottom: 5px;
+}
+
+.newsletter > p {
+  margin-bottom: 10px;
+}
+
+.boxvali {
+  background-color: #e1e1e2;
+  margin-bottom: 5px;
+  padding: 8px;
+}
+
+.porpora {
+  color: #aa2072;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  margin-left: 50px;
+  margin-bottom: 8px;
+  margin-top: 5px;
+}
+
+.parteseconda > p {
+  padding: 15px;
+  padding-top: 20px;
+  margin-bottom: 2px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: white;
+}
+.head {
+  background-color: #346cc3;
+  color: white;
+  height: 10px;
+}
+table,
+th,
+td {
+  border: 1px solid white;
+  padding: 15px;
+}
+
+thead {
+  background-color: #4674ee;
+}
+caption {
+  font-style: italic;
+}
+
+p.parteterza {
+  margin: 10px;
+}
+
+.newsletter > p:first-of-type {
+  text-align: center;
+  font-weight: bold;
+}
+
+.areacorrelati > p:first-of-type {
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.data {
+  margin-left: 220px;
+}
+
+.areacorrelati > p {
+  margin: 10px;
+}
